@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link 
+    <title>У Ашота!</title>
+  </head>
+  <body bgcolor="yellow">
+    <h1>У Ашота!</h1>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <div class="container">
+    <div class="col-sm">
+      <nav class="navbar fixed-top navbar-dark bg-dark" >
+       <a class="navbar-brand" href="https://www.youtube.com/watch?v=hF1Fy6pFENE" target="_blank">Рецепт </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Features</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Pricing</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+    </div>
+  </div>
+    <br>
+    <br>
+    <br>
+      <div class="shadow p-3 mb-5 bg-white rounded"> <img class="d-block w-100"src="D:\Череватый\328323-ed4_thumb.jpg"height="400"></div>
+    <br>
+    <br>
+    <br>
+    <div class="col-sm">
+      <nav class="navbar navbar-dark bg-dark" >
+        <button class="btn btn-secondary btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+   Наше меню 
+  </button>
+   <div class="dropdown-menu">
+    <a class="dropdown-item" href="https://www.youtube.com/watch?v=_0Q2WyhqHLA.html" target="_blank">Пелемень</a>
+    <a class="dropdown-item" href="https://www.youtube.com/watch?v=pPWAd-8F2hI" target="_blank">Шашлык</a>
+    <a class="dropdown-item" href="https://www.youtube.com/watch?v=qh5_H0TmCK0" target="_blank">Кебаб</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="https://www.youtube.com/watch?v=sTVMeT30PRg" target="_blank">Хинкали</a>
+  </div>
+  <div class="btn-group">
+  <button type="button" class="btn btn-danger">Action</button>
+  <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="sr-only">Toggle Dropdown</span>
+  </button>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="#">В начало </a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="#">Separated link</a>
+  </div>
+</div>
+      </nav>
+</div>
+    </div>
+</div>
+
+     <br>
+    <br>
+    <br>
+    <div class="row">
+    <div class="col-sm-4">
+    <div class="card" style="width: 18rem;">
+  <img src="pelmeni-domashnie-770x513.jpg">
+  <div class="card-body">
+    <h5 class="card-title">Пелемень</h5>
+    <p class="card-text">Пельме́ни — блюдо в виде отварных изделий из пресного теста с начинкой из рубленого мяса или рыбы, попавшее в русскую кухню с Урала</p>
+    <a href="https://www.google.com/search?sxsrf=ALeKk01C_jQPSW7OYTKiTUw9BL2Oxmyqrg:1586465527592&q=%D0%BF%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8+%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2&npsic=0&rflfq=1&rlha=0&rllag=46960637,31994754,1006&tbm=lcl&ved=2ahUKEwjhq-HRnNzoAhVr_CoKHdKaCz8QtgN6BAgLEAQ&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9&rldoc=1#rlfi=hd:;si:;mv:[[46.972130799999995,32.0471193],[46.950844599999996,31.935333599999996]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9ы" class="btn btn-primary"> </a>
+  </div>
+</div>
+</div>
+    <br>
+    <br>
+    <br>
+  
+    <div class="col-sm-4">
+    <div class="card" style="width: 18rem;">
+  <img src="960m.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Шашлык</h5>
+    <p class="card-text">Шашлы́к — изначально блюдо из баранины мелкой нарезки, нанизанное на шампур и запеченное на древесном угле в мангале; при этом возможно применение маринада, от простейших специй до сложных многокомпонентных составов, требующих особого приготовления</p>
+    <a href="https://www.google.com/search?q=%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA%20%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2&oq=%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA&aqs=chrome.3.69i59j46j69i59j0l2j69i61l2j69i60.5319j0j9&sourceid=chrome&ie=UTF-8&sxsrf=ALeKk01hzf5RbaZfMhMnSjGx8MrQoKHuSQ:1586465134284&npsic=0&rflfq=1&rlha=0&rllag=46953097,32040695,2422&tbm=lcl&rldimm=15550060959021110123&lqi=Ch3RiNCw0YjQu9GL0Log0L3QuNC60L7Qu9Cw0LXQslotCgzRiNCw0YjQu9GL0LoiHdGI0LDRiNC70YvQuiDQvdC40LrQvtC70LDQtdCy&phdesc=QruCcS4DU50&ved=2ahUKEwih4JuWm9zoAhXUrIsKHax_BNQQvS4wAHoECAsQIA&rldoc=1&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9&rlst=f#rlfi=hd:;si:15550060959021110123,l,Ch3RiNCw0YjQu9GL0Log0L3QuNC60L7Qu9Cw0LXQslotCgzRiNCw0YjQu9GL0LoiHdGI0LDRiNC70YvQuiDQvdC40LrQvtC70LDQtdCy,y,QruCcS4DU50;mv:[[46.9742976,32.0743844],[46.9383361,31.932771300000002]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9" class="btn btn-primary"> </a>
+  </div>
+</div>
+</div>
+      <div class="col-sm-4">
+    <div class="card" style="width: 18rem;">
+  <img src="328323-ed4_thumb.jpg" class="card-img-top" alt="">
+  <div class="card-body">
+    <h5 class="card-title">Хинкали </h5>
+    <p class="card-text">Хинка́ли — блюдо грузинской кухни из горных областей Пшави, Мтиулети и Хевсурети Грузии, далее блюдо распространилось в другие районы Кавказа и по всему бывшему СССР. Грузинские хинкали по составу и способу приготовления существенно отличаются от дагестанского хинкала, который представляет собой иной тип блюда </p>
+    <a href="https://www.google.com/search?sxsrf=ALeKk012IbK8AKqIOqsqlXf2jZB4udlFRQ:1586465280961&q=%D1%85%D0%B8%D0%BD%D0%BA%D0%B0%D0%BB%D0%B8+%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2&npsic=0&rflfq=1&rlha=0&rllag=46972345,31993818,106&tbm=lcl&ved=2ahUKEwjWnZTcm9zoAhWIuIsKHWGrBjoQtgN6BAgLEAQ&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9&rldoc=1#rlfi=hd:;si:;mv:[[46.973492199999995,31.9953499],[46.9678324,31.9903281]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9" class="btn btn-primary"> </a>
+  </div>
+  </div>
+  </div>
+</div>
+</div>
+</div>
+  </body>
+</html>
